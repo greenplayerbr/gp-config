@@ -1,0 +1,17 @@
+{
+  "versao": 1,
+  "login_qr": {
+    "ativo": true,
+    "titulo": "Crie seu usuário para o APP, seu mensalidades:",
+    "texto": "(Escaneie e conheça nosso parceiro)",
+    "link": "https://greenplay.site"
+  },
+  "aviso_inicio": {
+    "ativo": false,
+    "id": "aviso-1",
+    "titulo": "Bem-vindo ao Green Player",
+    "texto": "Segure OK em qualquer canal, filme ou série para favoritar.",
+    "link": "",
+    "mostrar": "uma_vez"
+  }
+}

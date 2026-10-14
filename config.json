@@ -2,7 +2,7 @@
   "versao": 1,
   "login_qr": {
     "ativo": true,
-    "titulo": "Crie seu usuário para o APP, seu mensalidades:",
+    "titulo": "Crie seu usuário para o APP:",
     "texto": "(Escaneie e conheça nosso parceiro)",
     "link": "https://example.com"
   },

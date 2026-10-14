@@ -7,11 +7,11 @@
     "link": "https://example.com"
   },
   "aviso_inicio": {
-    "ativo": false,
+    "ativo": true,
     "id": "aviso-1",
     "titulo": "Bem-vindo ao Green Player",
     "texto": "Segure OK em qualquer canal, filme ou série para favoritar.",
-    "link": "",
+    "link": "https://example.com",
     "mostrar": "uma_vez"
   }
 }

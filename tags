@@ -1,0 +1,4 @@
+Aviso:
+"uma_vez"	Aparece uma vez só por aparelho. Para mandar um aviso novo, troque o "id" (ex.: aviso-1 → aviso-2)
+"diario"	No máximo uma vez por dia
+"sempre"	Toda vez que o app abre

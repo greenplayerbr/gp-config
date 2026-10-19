@@ -13,5 +13,8 @@
     "texto": "Segure OK em qualquer canal, filme ou série para favoritar.",
     "link": "https://example.com",
     "mostrar": "uma_vez"
+  },
+  "codigos": {
+    "123": "http://servidor-do-parceiro.com:8080"
   }
 }

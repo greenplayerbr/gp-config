@@ -1,7 +1,7 @@
 {
   "versao": 1,
   "login_qr": {
-    "ativo": true,
+    "ativo": false,
     "titulo": "Crie seu usuário para o APP:",
     "texto": "(Escaneie e conheça nosso parceiro)",
     "link": "https://example.com"
